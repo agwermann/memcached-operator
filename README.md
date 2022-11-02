@@ -134,3 +134,4 @@ cd ../../
 ## Resources
 
 [Building Custom Operator - Red Hat Developers](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators#build_the_operator)
+[Create Custom Operator - IBM Developers](https://developer.ibm.com/learningpaths/kubernetes-operators/develop-deploy-simple-operator/create-operator/)
